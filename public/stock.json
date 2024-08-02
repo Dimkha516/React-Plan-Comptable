@@ -1,0 +1,156 @@
+[
+    {
+        "numero": "31",
+        "intitule": "Marchandises",
+        "id": 1
+      },
+
+      {
+        "numero": "32",
+        "intitule": "Matières Premières Et Fournitures Liées",
+        "id": 1
+      },
+
+      {
+        "numero": "33",
+        "intitule": "Autres Approvisionnements",
+        "id": 1
+      },
+      {
+        "numero": "335",
+        "intitule": "Emballages",
+        "id": 2
+      },
+
+      {
+        "numero": "341",
+        "intitule": "Produits En Cours",
+        "id": 1
+      },
+      {
+        "numero": "342",
+        "intitule": "Travaux En Cours",
+        "id": 2
+      },
+      {
+        "numero": "343",
+        "intitule": "Produits Intermédiaires En Cours",
+        "id": 3
+      },
+      {
+        "numero": "344",
+        "intitule": "Produits Résiduels En Cours",
+        "id": 4
+      },
+      {
+        "numero": "345",
+        "intitule": "Actifs Biologiques En Cours",
+        "id": 5
+      },
+
+      {
+        "numero": "351",
+        "intitule": "Etudes En Cours",
+        "id": 1
+      },
+      {
+        "numero": "352",
+        "intitule": "Prestations De Services En Cours",
+        "id": 2
+      },
+
+      {
+        "numero": "36",
+        "intitule": "Produits Finis",
+        "id": 1
+      },
+
+      {
+        "numero": "371",
+        "intitule": "Produits Intermédiaires",
+        "id": 1
+      },
+      {
+        "numero": "372",
+        "intitule": "Produits Résiduels ",
+        "id": 2
+      },
+      {
+        "numero": "373",
+        "intitule": "Actifs Biologiques ",
+        "id": 3
+      },
+
+      {
+        "numero": "381",
+        "intitule": "Marchandises En Cours De Route",
+        "id": 1
+      },
+      {
+        "numero": "382",
+        "intitule": "Matières Premières Et Fournitures Liées En Cours De Route",
+        "id": 2
+      },
+      {
+        "numero": "383",
+        "intitule": "Autres Approvisionnements En Cours De Route",
+        "id": 3
+      },
+      {
+        "numero": "386",
+        "intitule": "Produits Finis En Cours De Route",
+        "id": 4
+      },
+      {
+        "numero": "387",
+        "intitule": "Stocks En Consignation Ou En Dépôt ",
+        "id": 5
+      },
+      {
+        "numero": "388",
+        "intitule": "Stocks provenant d'immobilisations mises hors service ou au rébut",
+        "id": 6
+      },
+
+      {
+        "numero": "391",
+        "intitule": "Dépréciations Des Stocks De Marchandises",
+        "id": 1
+      },
+      {
+        "numero": "392",
+        "intitule": "Dépréciations Des Matières Premières Fournitures Liées",
+        "id": 2
+      },
+      {
+        "numero": "393 ",
+        "intitule": "Dépréciations Des Stocks D'autres Approvisionnements ",
+        "id": 3
+      },
+      {
+        "numero": "394",
+        "intitule": "Dépréciations Des Produits En Cours",
+        "id": 4
+      },
+      {
+        "numero": "395",
+        "intitule": "Dépréciations Des Services En Cours",
+        "id": 5
+      },
+      {
+        "numero": "396",
+        "intitule": "Dépréciations Des Stocks De Produits Finis ",
+        "id": 6
+      },
+      {
+        "numero": "397",
+        "intitule": "Dépréciations Des Produits Intermédiaires Et Résiduels",
+        "id": 7
+      },
+      {
+        "numero": "398",
+        "intitule": "Dép. des stocks en cours de route, en consignation ou en dépôt",
+        "id": 8
+      }
+  
+]

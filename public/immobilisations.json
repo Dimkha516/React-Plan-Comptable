@@ -1,0 +1,290 @@
+[
+    {
+        "numero": "211",
+        "intitule": "Frais De Développement",
+        "id": 1
+      },
+      {
+        "numero": "212",
+        "intitule": "Brevets, Licences, Concessions, Et Droits Similaires",
+        "id": 2
+      },
+      {
+        "numero": "213",
+        "intitule": "Logiciels Et Sites Internet ",
+        "id": 3
+      },
+      {
+        "numero": "214",
+        "intitule": "Marques",
+        "id": 4
+      },
+      {
+        "numero": "215",
+        "intitule": "Fonds Commercial",
+        "id": 5
+      },
+      {
+        "numero": "216",
+        "intitule": "Droit Au Bail",
+        "id": 6
+      },
+      {
+        "numero": "217",
+        "intitule": "Investissements De Création",
+        "id": 7
+      },
+      {
+        "numero": "218",
+        "intitule": "Autres Droits Et Valeurs Incorporelles",
+        "id": 8
+      },
+
+      {
+        "numero": "221",
+        "intitule": "Terrains Agricoles Et Forestiers",
+        "id": 1
+      },
+      {
+        "numero": "222",
+        "intitule": "Terrains Nus",
+        "id": 2
+      },
+      {
+        "numero": "223",
+        "intitule": "Terrains Bâtis",
+        "id": 3
+      },
+      {
+        "numero": "224",
+        "intitule": "Travaux De Mise En Valeur Des Terrains",
+        "id": 4
+      },
+      {
+        "numero": "225",
+        "intitule": "Terrains De Carrières-Tréfonds",
+        "id": 5
+      },
+      {
+        "numero": "226",
+        "intitule": "Terrains Aménagés",
+        "id": 6
+      },
+      {
+        "numero": "227",
+        "intitule": "Terrains Mis En Concession",
+        "id": 7
+      },
+      {
+        "numero": "228",
+        "intitule": "Autres Terrains",
+        "id": 8
+      },
+      {
+        "numero": "229",
+        "intitule": "Aménagements De Terrains En Cours",
+        "id": 9
+      },
+
+      {
+        "numero": "231",
+        "intitule": "Bâtiments Industriels, Agricoles, Admin. Et Com. Sur Sol Propre",
+        "id": 1
+      },
+      {
+        "numero": "232",
+        "intitule": "Bâtiments Indus Agric Admin Et Comm. Sur Le Sol D'autrui ",
+        "id": 2
+      },
+      {
+        "numero": "233",
+        "intitule": "Ouvrages D'infrastructure",
+        "id": 3
+      },
+      {
+        "numero": "234",
+        "intitule": "Aménagements, Agencements Et Installations Techniques",
+        "id": 4
+      },
+      {
+        "numero": "235",
+        "intitule": "Aménagements De Bureaux",
+        "id": 5
+      },
+      {
+        "numero": "237",
+        "intitule": "Bat. Ind. Agric. ET Comm. Mis En Concession ",
+        "id": 6
+      },
+      {
+        "numero": "238",
+        "intitule": "Autres Installations ET Agencements ",
+        "id": 7
+      },
+      {
+        "numero": "239",
+        "intitule": "Bâtiments Aménagement Et Agencement En Cours",
+        "id": 8
+      },
+
+      {
+        "numero": "241",
+        "intitule": "Matériel et Outillages Industriel et Commercial",
+        "id": 1
+      },
+      {
+        "numero": "242",
+        "intitule": "Matériel Et Outillage Agricole",
+        "id": 2
+      },
+      {
+        "numero": "243",
+        "intitule": "Matériel D'emballage Récupérable Et Identifiable",
+        "id": 3
+      },
+      {
+        "numero": "244",
+        "intitule": "Matériel Et Mobilier",
+        "id": 4
+      },
+      {
+        "numero": "245",
+        "intitule": "Matériel De Transport",
+        "id": 5
+      },
+      {
+        "numero": "246",
+        "intitule": "Actifs Biologiques",
+        "id": 6
+      },
+      {
+        "numero": "247",
+        "intitule": "Agencements, Aménagements Du Mat. Et Actif Biologique",
+        "id": 7
+      },
+      {
+        "numero": "248",
+        "intitule": "Autres Matériels Et Mobiliers",
+        "id": 8
+      },
+      {
+        "numero": "249",
+        "intitule": "Matériel Et Actif Biologique En Cours",
+        "id": 9
+      },
+
+      {
+        "numero": "251",
+        "intitule": "Avances Et Acomptes Versés Sur Immob. Incorporelles",
+        "id": 1
+      },
+      {
+        "numero": "252",
+        "intitule": "Avances Et Acomptes Versés Sur Immob. Corporelles",
+        "id": 2
+      },
+
+      {
+        "numero": "26",
+        "intitule": "Titres De Participation",
+        "id": 1
+      },
+
+      {
+        "numero": "271",
+        "intitule": "Prêts Et Créances",
+        "id": 1
+      },
+      {
+        "numero": "272",
+        "intitule": "Prêts Au Personnel",
+        "id": 2
+      },
+      {
+        "numero": "273",
+        "intitule": "Créances Sur L'Etata",
+        "id": 3
+      },
+      {
+        "numero": "274",
+        "intitule": "Titres Immobilisés",
+        "id": 4
+      },
+      {
+        "numero": "275",
+        "intitule": "Dépôts Et Cautionnements Versés",
+        "id": 5
+      },
+      {
+        "numero": "276",
+        "intitule": "Intérêts Courus",
+        "id": 6
+      },
+      {
+        "numero": "277",
+        "intitule": "Créances Rattachées A Des Participations Et Avances A Des GIE",
+        "id": 7
+      },
+      {
+        "numero": "278",
+        "intitule": "Immobilisations Financières Diverses",
+        "id": 8
+      },
+
+      {
+        "numero": "281",
+        "intitule": "Amortissements Des Immobilisations Incorporelles",
+        "id": 1
+      },
+      {
+        "numero": "282",
+        "intitule": "Amortissements Des Terrains",
+        "id": 2
+      },
+      {
+        "numero": "283 ",
+        "intitule": "Amortissements Des Bâtiments, Installations Techniques Et Agencements",
+        "id": 3
+      },
+      {
+        "numero": "284",
+        "intitule": "Amortissements Du Matériel",
+        "id": 4
+      },
+
+      {
+        "numero": "291",
+        "intitule": "Dépréciations Des Immobilisations Incorporelles",
+        "id": 1
+      },
+      {
+        "numero": "292",
+        "intitule": "Dépréciations Des Terrains",
+        "id": 2
+      },
+      {
+        "numero": "293",
+        "intitule": "Dépréciations Des Bâtiments, Installations Techniques et Agencements",
+        "id": 3
+      },
+      {
+        "numero": "294",
+        "intitule": "Dépréciations Du Matériel, Mobilier Et De L'Actif Biologique",
+        "id": 4
+      },
+      {
+        "numero": "295",
+        "intitule": "Dépréciations Des Avances Et Acomptes Versés Sur Immobilisations ",
+        "id": 5
+      },
+      {
+        "numero": "296",
+        "intitule": "Dépréciations Des Titres De PArticipation",
+        "id": 6
+      },
+      {
+        "numero": "297",
+        "intitule": "Dépréciations Des Autres Immobilisations Financières",
+        "id": 7
+      }
+]

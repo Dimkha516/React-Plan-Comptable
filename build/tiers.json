@@ -1,0 +1,346 @@
+[
+    {
+        "numero": "401",
+        "intitule": "Fournisseurs, Dettes En Compte",
+        "id": 1
+      },
+      {
+        "numero": "402 ",
+        "intitule": "Fournisseurs Effets A Payer",
+        "id": 2
+      },
+      {
+        "numero": "404",
+        "intitule": "Fournisseurs Acquisitions Courantes D'immobilisations ",
+        "id": 3
+      },
+      {
+        "numero": "408",
+        "intitule": "Fournisseurs Factures Non Parvenues",
+        "id": 4
+      },
+      {
+        "numero": "409",
+        "intitule": "Fournisseurs Débiteurs",
+        "id": 5
+      },
+
+      {
+        "numero": "411",
+        "intitule": "Clients",
+        "id": 1
+      },
+      {
+        "numero": "412",
+        "intitule": "Clients Effets A Recevoir En Portefeuille",
+        "id": 2
+      },
+      {
+        "numero": "413",
+        "intitule": "Clients, Chèques Effets Et Autres Valeurs Impayés",
+        "id": 3
+      },
+      {
+        "numero": "414",
+        "intitule": "Créances Sur Cessions Courantes D'immobilisations",
+        "id": 4
+      },
+      {
+        "numero": "415",
+        "intitule": "Clients, Effets Escomptés Non Echus",
+        "id": 5
+      },
+      {
+        "numero": "416",
+        "intitule": "Créances Clients Litigeuses Ou Douteuses",
+        "id": 6
+      },
+      {
+        "numero": "418",
+        "intitule": "Clients, Produits A Recevoir",
+        "id": 7
+      },
+      {
+        "numero": "419",
+        "intitule": "Clients Débiteurs",
+        "id": 8
+      },
+
+      {
+        "numero": "421",
+        "intitule": "Personnel, Avances Et Acomptes",
+        "id": 1
+      },
+      {
+        "numero": "422",
+        "intitule": "Personnel, Rémunération Dues",
+        "id": 2
+      },
+      {
+        "numero": "423",
+        "intitule": "Personnel, Oppositions, Saisies-Arrêts",
+        "id": 3
+      },
+      {
+        "numero": "424",
+        "intitule": "Personnel, Œuvres Sociales Internes",
+        "id": 4
+      },
+      {
+        "numero": "425",
+        "intitule": "Représentants Du Personnel",
+        "id": 5
+      },
+      {
+        "numero": "426",
+        "intitule": "Personnel, Participation Aux Bénéfices Et Aux Capital",
+        "id": 6
+      },
+      {
+        "numero": "427",
+        "intitule": "Personnel-Dépôts",
+        "id": 7
+      },
+      {
+        "numero": "428",
+        "intitule": "Personnel, Charges A Payer Et Produits A Recevoir",
+        "id": 8
+      },
+
+      {
+        "numero": "431",
+        "intitule": "Sécurité Sociale",
+        "id": 1
+      },
+      {
+        "numero": "432",
+        "intitule": "Caisses De Retraite Complémentaire",
+        "id": 2
+      },
+      {
+        "numero": "433",
+        "intitule": "Autres Organismes Sociaux",
+        "id": 3
+      },
+      {
+        "numero": "438",
+        "intitule": "Organismes Sociaux, Charges A Payer Et Produits A Recevoir",
+        "id": 4
+      },
+
+      {
+        "numero": "441",
+        "intitule": "Etat, Impôt Sur Les Bénéfices",
+        "id": 1
+      },
+      {
+        "numero": "442",
+        "intitule": "Etat, Autres Impôts Et Taxes",
+        "id": 2
+      },
+      {
+        "numero": "443",
+        "intitule": "Etat, TVA Facturée",
+        "id": 3
+      },
+      {
+        "numero": "444",
+        "intitule": "Etat, TVA Due Ou Crédit De TVA",
+        "id": 4
+      },
+      {
+        "numero": "445",
+        "intitule": "Etat, TVA Recupérable",
+        "id": 5
+      },
+      {
+        "numero": "446",
+        "intitule": "Etat, Autres Taxes Sur Le Chiffre D'affaires",
+        "id": 6
+      },
+      {
+        "numero": "447",
+        "intitule": "Etat, Impôts Retenus A La Source",
+        "id": 7
+      },
+      {
+        "numero": "448",
+        "intitule": "Etat, Charges A Payer Et Produits A Recevoir",
+        "id": 8
+      },
+      {
+        "numero": "449",
+        "intitule": "Etat, Créances Et Dettes Divers",
+        "id": 9
+      },
+
+      {
+        "numero": "451",
+        "intitule": "Opérations Avec Les Organismes Africains",
+        "id": 1
+      },
+      {
+        "numero": "452",
+        "intitule": "Opérations Avec Les Autres Organismes Internationaux",
+        "id": 2
+      },
+      {
+        "numero": "458",
+        "intitule": "Organismes Internationaux, Fonds De Dotation Et Subventions A Recevoir",
+        "id": 3
+      },
+
+      {
+        "numero": "461",
+        "intitule": "Apporteurs Opérations Sur Le Capital",
+        "id": 1
+      },
+      {
+        "numero": "462",
+        "intitule": "Associés, Comptes Courants",
+        "id": 2
+      },
+      {
+        "numero": "463",
+        "intitule": "Associés, Opérations Faites En Commun Et GIE",
+        "id": 3
+      },
+      {
+        "numero": "465",
+        "intitule": "Associés, Dividendes A Payer",
+        "id": 4
+      },
+      {
+        "numero": "466",
+        "intitule": "Groupes, Comptes Courants",
+        "id": 5
+      },
+      {
+        "numero": "467",
+        "intitule": "Apporteurs, Restant Dû Sur Capital Appelé",
+        "id": 6
+      },
+
+      {
+        "numero": "471",
+        "intitule": "Débiteurs Et Créditeurs Divers",
+        "id": 1
+      },
+      {
+        "numero": "472",
+        "intitule": "Créances Et Dettes Sur Titres De Placement",
+        "id": 2
+      },
+      {
+        "numero": "473",
+        "intitule": "Intermédiaires-Opérations Faites Pour Compte De Tiers",
+        "id": 3
+      },
+      {
+        "numero": "474",
+        "intitule": "Comptes De Répartition Periodique Des Charges Et Des Produits  ",
+        "id": 4
+      },
+      {
+        "numero": "475",
+        "intitule": "Compte Transitoire, Ajustement Spécial Lie A La Révision Du SYSCOHADA",
+        "id": 5
+      },
+      {
+        "numero": "476",
+        "intitule": "Charges Constatées D'Avance",
+        "id": 6
+      },
+      {
+        "numero": "477",
+        "intitule": "Produits Constatés D'Avance",
+        "id": 7
+      },
+      {
+        "numero": "478",
+        "intitule": "Ecarts De Conversion-Actif",
+        "id": 8
+      },
+      {
+        "numero": "479",
+        "intitule": "Ecart De Conversion-Passif",
+        "id": 9
+      },
+
+      {
+        "numero": "481",
+        "intitule": "Fournisseurs D'investissements",
+        "id": 1
+      },
+      {
+        "numero": "482",
+        "intitule": "Fournisseurs D'investissement Effets A Payer",
+        "id": 2
+      },
+      {
+        "numero": "484",
+        "intitule": "Autres Dettes HAO",
+        "id": 3
+      },
+      {
+        "numero": "485",
+        "intitule": "Créances Sur Cessions D'Immobilisation",
+        "id": 4
+      },
+      {
+        "numero": "488",
+        "intitule": "Autres Créances HAO",
+        "id": 5
+      },
+
+      {
+        "numero": "490",
+        "intitule": "Dépréciations Des Comptes Fournisseurs",
+        "id": 1
+      },
+      {
+        "numero": "491",
+        "intitule": "Dépréciations Des Comptes Clients ",
+        "id": 2
+      },
+      {
+        "numero": "492",
+        "intitule": "Dépréciations Des Comptes Personnel",
+        "id": 3
+      },
+      {
+        "numero": "493",
+        "intitule": "Dépréciations Des Comptes Organismes Sociaux",
+        "id": 4
+      },
+      {
+        "numero": "494",
+        "intitule": "Dépréciations Des Comptes Etat Et Collectivités Publiques",
+        "id": 5
+      },
+      {
+        "numero": "495",
+        "intitule": " Dépréciations Des Comptes Organismes Internationaux",
+        "id": 6
+      },
+      {
+        "numero": "496",
+        "intitule": "Dépréciations Des Comptes Apporteurs Associés Et Groupes",
+        "id": 7
+      },
+      {
+        "numero": "497",
+        "intitule": "Dépréciations Des Comptes Débiteurs Divers",
+        "id": 8
+      },
+      {
+        "numero": "498",
+        "intitule": "Dépréciations Des Comptes Créances HAO",
+        "id": 9
+      },
+      {
+        "numero": "499",
+        "intitule": "Provisions Pour Risques A Court Terme",
+        "id": 10
+      }
+]

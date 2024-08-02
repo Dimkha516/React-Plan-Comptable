@@ -1,0 +1,314 @@
+[
+  {
+    "numero": "101",
+    "intitule": "Capital Social",
+    "id": 1
+  },
+  {
+    "numero": "102",
+    "intitule": "capital Par Dotation",
+    "id": 2
+  },
+  {
+    "numero": "103",
+    "intitule": "Capital Personnel",
+    "id": 3
+  },
+  {
+    "numero": "104",
+    "intitule": "Compte De L'Exploitant",
+    "id": 4
+  },
+  {
+    "numero": "105",
+    "intitule": "Primes Liées Au Capital Social",
+    "id": 5
+  },
+  {
+    "numero": "106",
+    "intitule": "Ecart De Réévaluation",
+    "id": 6
+  },
+  {
+    "numero": "109",
+    "intitule": "Apporteurs, Capital Souscrit Non Appelé",
+    "id": 7
+  },
+
+  {
+    "numero": "111",
+    "intitule": "Réserve Légale",
+    "id": 1
+  },
+  {
+    "numero": "112",
+    "intitule": "Réserves Statutaires ou Contractuelles",
+    "id": 2
+  },
+  {
+    "numero": "113",
+    "intitule": "Réserves Réglementées",
+    "id": 3
+  },
+  {
+    "numero": "118",
+    "intitule": "Autres Réserves",
+    "id": 4
+  },
+  
+  {
+    "numero": "121",
+    "intitule": "Report A Nouveau Créditeur",
+    "id": 1
+  },
+  {
+    "numero": "129",
+    "intitule": "Report A Nouveau Débiteur",
+    "id": 2
+  },
+  
+  {
+    "numero": "130",
+    "intitule": "Résultat En Instance d'affectation",
+    "id": 1
+  },
+  {
+    "numero": "131",
+    "intitule": "Résultat Net: Bénéfice",
+    "id": 2
+  },
+  {
+    "numero": "132",
+    "intitule": "Marge Commerciale (MC)",
+    "id": 3
+  },
+  {
+    "numero": "133",
+    "intitule": "Valeur Ajoutée (VA)",
+    "id": 4
+  },
+  {
+    "numero": "134",
+    "intitule": "Excédent Brut D'Exploitation (EBE)",
+    "id": 5
+  },
+  {
+    "numero": "135",
+    "intitule": "Résultat D'Exploitation (RE)",
+    "id": 6
+  },
+  {
+    "numero": "136",
+    "intitule": "Résultat Financier (RF)",
+    "id": 7
+  },
+  {
+    "numero": "137",
+    "intitule": "Résultat Des Activité Ordinaires (RAO)",
+    "id": 8
+  },
+  {
+    "numero": "139",
+    "intitule": "Résultat Net: Perte",
+    "id": 9
+  },
+
+
+  {
+    "numero": "141",
+    "intitule": "Subventions D'Equipement",
+    "id": 1
+  },
+  {
+    "numero": "148",
+    "intitule": "Autres Subventions D'investissement",
+    "id": 2
+  },
+
+  {
+    "numero": "151",
+    "intitule": "Amortissements Dérogatoires",
+    "id": 1
+  },
+  
+  {
+    "numero": "152",
+    "intitule": "Plus-Values De Cession A Réinvestir",
+    "id": 3
+  },
+  {
+    "numero": "153",
+    "intitule": "Fonds Réglementés",
+    "id": 4
+  },
+  {
+    "numero": "154",
+    "intitule": "Provisions Spéciales De Réévaluation",
+    "id": 5
+  },
+  {
+    "numero": "155",
+    "intitule": "Provisions Réglementées Relatives Aux Immobilisations",
+    "id": 6
+  },
+  {
+    "numero": "156",
+    "intitule": "Provisions Réglementées Relatives Aux Stocks",
+    "id": 7
+  },
+  {
+    "numero": "157",
+    "intitule": "Provisions Pour Investissement",
+    "id": 8
+  },
+  {
+    "numero": "158",
+    "intitule": "Autres Provisions Et Fonds Réglementés",
+    "id": 9
+  },
+
+  {
+    "numero": "161",
+    "intitule": "Emprunts Obligataires",
+    "id": 1
+  },
+  {
+    "numero": "162",
+    "intitule": "Emprunts Et Dettes Auprès Des Etablissements De Crédit",
+    "id": 2
+  },
+  {
+    "numero": "163",
+    "intitule": "Avances Reçus De L'Etat",
+    "id": 3
+  },
+  {
+    "numero": "164",
+    "intitule": "Avances Reçues Et Comptes Courants Bloqués",
+    "id": 4
+  },
+  {
+    "numero": "165",
+    "intitule": "Dépôts Et Cautionnements Reçus",
+    "id": 5
+  },
+  
+  {
+    "numero": "167",
+    "intitule": "Avances Assorties De Conditions Particulières",
+    "id": 7
+  },
+  {
+    "numero": "168",
+    "intitule": "Autres Emprunts Et Dettes",
+    "id": 8
+  },
+
+  {
+    "numero": "172",
+    "intitule": "Dettes Locations Acquisition/Crédit-Bail Immobilier",
+    "id": 1
+  },
+  {
+    "numero": "173",
+    "intitule": "Dettes De Location Acquisition/Crédit-Bail Mobilier",
+    "id": 2
+  },
+  {
+    "numero": "174",
+    "intitule": "Dettes De Location Acquisition/Location-Vente",
+    "id": 3
+  },
+  {
+    "numero": "176",
+    "intitule": "Intérêts Courus",
+    "id": 4
+  },
+  {
+    "numero": "178",
+    "intitule": "Autres Dettes De Location Acquisition",
+    "id": 5
+  },
+  {
+    "numero": "181",
+    "intitule": "Dettes Liées A Des Participations",
+    "id": 1
+  },
+  {
+    "numero": "182",
+    "intitule": "Dettes Liées A Des Sociétés En Partition",
+    "id": 2
+  },
+  {
+    "numero": "183",
+    "intitule": "Intérêts Courus Sur Dettes Liées A Des Participations",
+    "id": 3
+  },
+  {
+    "numero": "184",
+    "intitule": "Comptes Permanents Bloqués Des Etablissements Et Succursales",
+    "id": 4
+  },
+  {
+    "numero": "185",
+    "intitule": "Comptes Permanents Non Bloqués Des Etablissements Et Succursales",
+    "id": 5
+  },
+  {
+    "numero": "186",
+    "intitule": "Comptes De Liaison Charges",
+    "id": 6
+  },
+  {
+    "numero": "187",
+    "intitule": "Comptes De Liaison Produits",
+    "id": 7
+  },
+  {
+    "numero": "188",
+    "intitule": "Comptes De Liaison Des Sociétés En Partition",
+    "id": 8
+  },
+
+  {
+    "numero": "191",
+    "intitule": "Provisions Pour Litiges",
+    "id": 1
+  },
+  {
+    "numero": "192",
+    "intitule": "Provisions Pour Garanties Données Aux Clients",
+    "id": 2
+  },
+  {
+    "numero": "193",
+    "intitule": "Provisions Pour Pertes Sur Marché A Achèvement Futur",
+    "id": 3
+  },
+  {
+    "numero": "194",
+    "intitule": "Provisions Pour Pertes De Change",
+    "id": 4
+  },
+  {
+    "numero": "195",
+    "intitule": "Provisions Pour Impôts",
+    "id": 5
+  },
+  {
+    "numero": "196",
+    "intitule": "Provisions Pour Pensions Et Obligations Similaires",
+    "id": 6
+  },
+  {
+    "numero": "197",
+    "intitule": "Provisions Pour Restructuration",
+    "id": 7
+  },
+  {
+    "numero": "198",
+    "intitule": "Autres Provisions Pour Risques Et Charges",
+    "id": 8
+  }
+
+]

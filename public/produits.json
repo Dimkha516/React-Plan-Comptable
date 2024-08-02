@@ -1,0 +1,213 @@
+[
+    {
+        "numero": "701",
+        "intitule": "Ventes De Marchandises",
+        "id": 1
+      },
+      {
+        "numero": "702",
+        "intitule": "Ventes De Produits Finis",
+        "id": 2
+      },
+      {
+        "numero": "703",
+        "intitule": "Ventes De Produits Intermédiaires",
+        "id": 3
+      },
+      {
+        "numero": "704",
+        "intitule": "Ventes De Produits Résiduels",
+        "id": 4
+      },
+      {
+        "numero": "705",
+        "intitule": "Travaux Facturés",
+        "id": 5
+      },
+      {
+        "numero": "706",
+        "intitule": "Services Vendus",
+        "id": 6
+      },
+      {
+        "numero": "707",
+        "intitule": "Produits Accessoires",
+        "id": 7
+      },
+
+      {
+        "numero": "711",
+        "intitule": "Subv. D'exploit. Sur Produits A L'Exportation",
+        "id": 1
+      },
+      {
+        "numero": "712",
+        "intitule": "Subv. D'Exploit. Sur Produits A L'importation",
+        "id": 2
+      },
+      {
+        "numero": "713",
+        "intitule": "Subv. D'Exploit. Sur Produits De Péréquation",
+        "id": 3
+      },
+      {
+        "numero": "714",
+        "intitule": "Indemnités et Subv. D'Exploit. (entité agricole)",
+        "id": 4
+      },
+      {
+        "numero": "718",
+        "intitule": "Autres Subv. D'Exploit.",
+        "id": 5
+      },
+
+      {
+        "numero": "721",
+        "intitule": "Production Immobilisée Immobilisations Incorporelles",
+        "id": 1
+      },
+      {
+        "numero": "722",
+        "intitule": "Production Immobilisée Immobilisations Corporelles ",
+        "id": 2
+      },
+      {
+        "numero": "724",
+        "intitule": "Production Auto-Consommée",
+        "id": 3
+      },
+      {
+        "numero": "726",
+        "intitule": "Immobilisations Financières",
+        "id": 4
+      },
+
+      {
+        "numero": "734",
+        "intitule": "Variations Des Stocks De Produits En Cours",
+        "id": 1
+      },
+      {
+        "numero": "735",
+        "intitule": "Variations Des Encours De Services",
+        "id": 2
+      },
+      {
+        "numero": "736",
+        "intitule": "Variations Des Stocks De Produits Finis",
+        "id": 3
+      },
+      {
+        "numero": "737",
+        "intitule": "Variations Des Stocks De Produits Intermédiaires Et Résiduels",
+        "id": 4
+      },
+
+      {
+        "numero": "751",
+        "intitule": "Profits Sur Créances Clients ",
+        "id": 1
+      },
+      {
+        "numero": "752",
+        "intitule": "Quote-Part De Résultat Sur Opérations Faites En Commun ",
+        "id": 2
+      },
+      {
+        "numero": "754",
+        "intitule": "Produits Des Cessions Courantes D'Immobilisations",
+        "id": 3
+      },
+      {
+        "numero": "756",
+        "intitule": "Gains De Change Sur Créances Et Dettes Commerciales ",
+        "id": 4
+      },
+      {
+        "numero": "758",
+        "intitule": "Produits Divers",
+        "id": 5
+      },
+      {
+        "numero": "759",
+        "intitule": "Reprises de charges pour dépréciations et provisions pour risques à court terme d'expoitaion",
+        "id": 6
+      },{
+        "numero": "771",
+        "intitule": "Intérêts De Prêts Et Créances Divers",
+        "id": 1
+      },
+      {
+        "numero": "772",
+        "intitule": "Revenus De Participations Et Autres Titres Immobilisés",
+        "id": 2
+      },
+      {
+        "numero": "773",
+        "intitule": "Escomptes Obtenus",
+        "id": 3
+      },
+      {
+        "numero": "774",
+        "intitule": "Revenus De Placement",
+        "id": 4
+      },
+      {
+        "numero": "775",
+        "intitule": "Intérêts Dans Loyers De Location Acquisition",
+        "id": 5
+      },
+      {
+        "numero": "776",
+        "intitule": "Gains De Change Financiers",
+        "id": 6
+      },
+      {
+        "numero": "777",
+        "intitule": "Gains Sur Cession De Titre De Placement",
+        "id": 7
+      },
+      {
+        "numero": "778",
+        "intitule": "Gains Sur Risques Financiers",
+        "id": 8
+      },
+      {
+        "numero": "779",
+        "intitule": "Reprises de charges pour dépréciations et provisions a court terme financières",
+        "id": 9
+      },
+
+      {
+        "numero": "781",
+        "intitule": "Transferts De Charges D'exploitation",
+        "id": 1
+      },
+      {
+        "numero": "787",
+        "intitule": "Transferts De Charges Financières",
+        "id": 2
+      },
+
+      {
+        "numero": "791",
+        "intitule": "Reprises De Provisions Et Dépréciations D'Exploitation",
+        "id": 1
+      },
+      {
+        "numero": "797",
+        "intitule": "Reprises De Provisions Et Dépréciations Financières",
+        "id": 2
+      },
+      {
+        "numero": "798",
+        "intitule": "Reprises D'Amortissements",
+        "id": 3
+      },
+      {
+        "numero": "799",
+        "intitule": "Reprises De Subventions D'investissement",
+        "id": 4
+      }
+      
+]

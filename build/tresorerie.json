@@ -1,0 +1,266 @@
+[
+    {
+        "numero": "501",
+        "intitule": "Titres Du Trésor Et Bons De Caisse A Court Terme",
+        "id": 1
+      },
+      {
+        "numero": "502",
+        "intitule": "Actions",
+        "id": 2
+      },
+      {
+        "numero": "503",
+        "intitule": "Obligations",
+        "id": 3
+      },
+      {
+        "numero": "504",
+        "intitule": "Bons De Souscription",
+        "id": 4
+      },
+      {
+        "numero": "505",
+        "intitule": "Titres Négociables Hors Région",
+        "id": 5
+      },
+      {
+        "numero": "506",
+        "intitule": "Intérêts Courus",
+        "id": 6
+      },
+      {
+        "numero": "508",
+        "intitule": "Autres Titres De Placement Et Créances Assimilées",
+        "id": 7
+      },
+
+      {
+        "numero": "511",
+        "intitule": "Effets A Encaisser",
+        "id": 1
+      },
+      {
+        "numero": "512",
+        "intitule": "Effets A L'Encaissement",
+        "id": 2
+      },
+      {
+        "numero": "513",
+        "intitule": "Chèques A Encaisser",
+        "id": 3
+      },
+      {
+        "numero": "514",
+        "intitule": "Chèques A L'Encaissement",
+        "id": 4
+      },
+      {
+        "numero": "515",
+        "intitule": "Cartes De Crédit A Encaisser",
+        "id": 5
+      },
+      {
+        "numero": "518",
+        "intitule": "Autres Valeurs A L'Encaissement",
+        "id": 6
+      },
+
+      {
+        "numero": "521",
+        "intitule": "Banques Locale",
+        "id": 1
+      },
+      {
+        "numero": "522",
+        "intitule": "Banques Autres Etats Région",
+        "id": 2
+      },
+      {
+        "numero": "523",
+        "intitule": "Banques Autres Etats Zone Monétaire",
+        "id": 3
+      },
+      {
+        "numero": "524",
+        "intitule": "Banques Hors Zone Monétaire",
+        "id": 4
+      },
+      {
+        "numero": "525",
+        "intitule": "Banques Dépôt A Terme",
+        "id": 5
+      },
+      {
+        "numero": "526",
+        "intitule": "Banques, Intérêts Courus",
+        "id": 6
+      },
+
+      {
+        "numero": "531",
+        "intitule": "Chèques Postaux",
+        "id": 1
+      },
+      {
+        "numero": "532 ",
+        "intitule": "Trésor",
+        "id": 2
+      },
+      {
+        "numero": "533",
+        "intitule": "Sociétés De Gestion Et D'Intermédiation (SGI)",
+        "id": 3
+      },
+      {
+        "numero": "536",
+        "intitule": "Etablissements Financiers, Intérêts Courus",
+        "id": 4
+      },
+      {
+        "numero": "538",
+        "intitule": "Autres Organismes Financiers",
+        "id": 5
+      },
+
+      {
+        "numero": "541",
+        "intitule": "Options De Taux D'intéret",
+        "id": 1
+      },
+      {
+        "numero": "542",
+        "intitule": "Options De Taux De Change",
+        "id": 2
+      },
+      {
+        "numero": "543",
+        "intitule": "Options De Taux Boursiers",
+        "id": 3
+      },
+      {
+        "numero": "544",
+        "intitule": "Instruments De Marchés A Terme",
+        "id": 4
+      },
+      {
+        "numero": "545",
+        "intitule": "Avoirs D'Or Et Autres Métaux Précieux",
+        "id": 5
+      },
+
+      {
+        "numero": "551",
+        "intitule": "Monnaie Eléctronique-Carte Carburant",
+        "id": 1
+      },
+      {
+        "numero": "552",
+        "intitule": "Monnaie Electronique-Téléphone Portable ",
+        "id": 2
+      },
+      {
+        "numero": "553",
+        "intitule": "Monnaie Electronique-Carte Péage",
+        "id": 3
+      },
+      {
+        "numero": "554",
+        "intitule": "Porte-Monnaie Electronique",
+        "id": 4
+      },
+      {
+        "numero": "558",
+        "intitule": "Autres Instruments Monnaies Electroniques",
+        "id": 5
+      },
+
+      {
+        "numero": "561",
+        "intitule": "Crédit De Trésorerie",
+        "id": 1
+      },
+      {
+        "numero": "564",
+        "intitule": "Escompte De Crédits De Campagne",
+        "id": 2
+      },
+      {
+        "numero": "565",
+        "intitule": "Escomptes De Crédits Ordinaires",
+        "id": 3
+      },
+      {
+        "numero": "566",
+        "intitule": "Banques, Crédits De Trésorerie, Intérêts Courus",
+        "id": 4
+      },
+
+      {
+        "numero": "571",
+        "intitule": "Caisse Sociale",
+        "id": 1
+      },
+      {
+        "numero": "572",
+        "intitule": "Caisse Succursale A",
+        "id": 2
+      },
+      {
+        "numero": "573",
+        "intitule": "Caisse Succursale B",
+        "id": 3
+      },
+
+      {
+        "numero": "581",
+        "intitule": "Régies D'avance",
+        "id": 1
+      },
+      {
+        "numero": "582",
+        "intitule": "Accréditifs",
+        "id": 2
+      },
+      {
+        "numero": "585",
+        "intitule": "Virements De Fonds",
+        "id": 3
+      },
+      {
+        "numero": "588",
+        "intitule": "Autres Virements Internes",
+        "id": 4
+      },
+
+      {
+        "numero": "590",
+        "intitule": "Dépréciations Des Titres De Placement",
+        "id": 1
+      },
+      {
+        "numero": "591",
+        "intitule": "Dépréciations Des Titres Et Valeurs A Encaisser",
+        "id": 2
+      },
+      {
+        "numero": "592",
+        "intitule": "Dépréciations Des Comptes Banques",
+        "id": 3
+      },
+      {
+        "numero": "593",
+        "intitule": "Dépréciations Des Comptes Etablissements Financiers Et Assimilés",
+        "id": 4
+      },
+      {
+        "numero": "594",
+        "intitule": "Dépréciations Des Comptes D'instruments De Trésorerie",
+        "id": 5
+      },
+      {
+        "numero": "599",
+        "intitule": "Provisions Pour Risques A Court Terme A Caractère Financier",
+        "id": 6
+      }
+]

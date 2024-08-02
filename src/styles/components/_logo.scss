@@ -1,0 +1,21 @@
+.logo{
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    border: rgb(32, 32, 32) solid 2.5px;
+    border-radius: 65px;
+    margin-top: 20px;
+    margin-left: 115px;
+    margin-right: 115px;
+
+    
+    img{
+        width: 25%;
+        border-radius: 25%;
+    }
+
+    h5{
+        margin-top: 70px;
+        font-size: 1.5rem;
+    }
+}

@@ -1,0 +1,19 @@
+.navigation{
+    margin: 5px;
+    display: flex;
+    flex-wrap: wrap;
+
+    a{
+        margin: 5px;
+        padding: 5px;
+        border: solid turquoise 2px;
+        border-radius: 15px;
+        background-color: turquoise;
+        user-select: none;
+    }
+
+    .active-page{
+        color:red;
+        border: black solid;
+    }
+}

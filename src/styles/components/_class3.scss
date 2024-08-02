@@ -1,0 +1,13 @@
+.class3{
+    user-select: none;
+    
+    .search{
+        margin-left: 15px;
+
+        input[type="text"]{
+            margin: 2px;
+            border-radius: 10px;
+            font-size: 1.5rem;
+        }
+    }
+}

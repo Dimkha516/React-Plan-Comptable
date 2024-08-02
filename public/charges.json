@@ -1,0 +1,296 @@
+[
+    {
+        "numero": "601",
+        "intitule": "Achats De Marchandises",
+        "id": 1
+      },
+      {
+        "numero": "602",
+        "intitule": "Achats De Matières Premières Et Fournitures Liées",
+        "id": 2
+      },
+      {
+        "numero": "603",
+        "intitule": "Variations Des Stocks De Biens Achetés",
+        "id": 3
+      },
+      {
+        "numero": "604",
+        "intitule": "Achats Stockés De Matières Et Fournitures Consommables",
+        "id": 4
+      },
+      {
+        "numero": "605",
+        "intitule": "Autres Achats",
+        "id": 5
+      },
+      {
+        "numero": "608",
+        "intitule": "Achats D'emballages",
+        "id": 6
+      },
+      
+      {
+        "numero": "612",
+        "intitule": "Transports Sur Ventes",
+        "id": 1
+      },
+      {
+        "numero": "613",
+        "intitule": "Transports Pour Le Compte De Tiers",
+        "id": 2
+      },
+      {
+        "numero": "614",
+        "intitule": "Transport Du Personnel",
+        "id": 3
+      },
+      {
+        "numero": "616",
+        "intitule": "Transports De Plis",
+        "id": 4
+      },
+      {
+        "numero": "618",
+        "intitule": "Autres Frais De Transport",
+        "id": 5
+      },
+
+      {
+        "numero": "621",
+        "intitule": "Sous-Traitance Générale",
+        "id": 1
+      },
+      {
+        "numero": "622",
+        "intitule": "Locations, Charges Locatives",
+        "id": 2
+      },
+      {
+        "numero": "623",
+        "intitule": "Redevances De Location Acquisition",
+        "id": 3
+      },
+      {
+        "numero": "624",
+        "intitule": "Entretiens, Réparations, Remise En Etat Et Maintenance",
+        "id": 4
+      },
+      {
+        "numero": "625",
+        "intitule": "Primes D'assurance",
+        "id": 5
+      },
+      {
+        "numero": "626",
+        "intitule": "Etudes, Recherches Et Documentations",
+        "id": 6
+      },
+      {
+        "numero": "627",
+        "intitule": "Publicités, Publications, Relations Publiques",
+        "id": 7
+      },
+      {
+        "numero": "628",
+        "intitule": "Frais De Télécommunications",
+        "id": 8
+      },
+
+      {
+        "numero": "631",
+        "intitule": "Frais Bancaires",
+        "id": 1
+      },
+      {
+        "numero": "632",
+        "intitule": "Rémunérations D'Intermédiaires Et De Conseils",
+        "id": 2
+      },
+      {
+        "numero": "633",
+        "intitule": "Frais De Formation Du Personnel",
+        "id": 3
+      },
+      {
+        "numero": "634",
+        "intitule": "Redevances pour brevets, licences, logiciels, concessions et droit et valeurs similaires",
+        "id": 4
+      },
+      {
+        "numero": "635",
+        "intitule": "Cotisations",
+        "id": 5
+      },
+      {
+        "numero": "637",
+        "intitule": "Rémunérations De Personnel Extérieur A L'Entité",
+        "id": 6
+      },
+      {
+        "numero": "638",
+        "intitule": "Autres Charges Externes",
+        "id": 7
+      },
+
+      {
+        "numero": "641",
+        "intitule": "Impôts Et Taxes Directs",
+        "id": 1
+      },
+      {
+        "numero": "645",
+        "intitule": "Impôts Et Taxes Indirects",
+        "id": 2
+      },
+      {
+        "numero": "646",
+        "intitule": "Droits D'Enregistrement",
+        "id": 3
+      },
+      {
+        "numero": "647",
+        "intitule": "Pénalités, Amendes Fiscales",
+        "id": 4
+      },
+      {
+        "numero": "648",
+        "intitule": "Autres Impôts Et Taxes",
+        "id": 5
+      },
+
+      {
+        "numero": "651",
+        "intitule": "Pertes Créances Clients Et Autres Débiteurs",
+        "id": 1
+      },
+      {
+        "numero": "652",
+        "intitule": "Quote-Part De Résultat Sur Opérations Faites En Commun",
+        "id": 2
+      },
+      {
+        "numero": "654",
+        "intitule": "Valeurs Comptables Des Cessions Courantes D'Immobilisations",
+        "id": 3
+      },
+      {
+        "numero": "656",
+        "intitule": "Perte De Change Sur Créances Et Dettes Commerciales",
+        "id": 4
+      },
+      {
+        "numero": "657",
+        "intitule": "Pénalités Et Amendes Pénales",
+        "id": 5
+      },
+      {
+        "numero": "658",
+        "intitule": "Charges Divers",
+        "id": 6
+      },
+      {
+        "numero": "659",
+        "intitule": "Charges Pour Dépréciations Et Provisions Pour Risques A Court Terme D'Expoitation",
+        "id": 7
+      },
+
+      {
+        "numero": "661",
+        "intitule": "Rémunérations Directs Versées Au Personnel National",
+        "id": 1
+      },
+      {
+        "numero": "662",
+        "intitule": "Rémunérations Directes Versées Au Personnel Non National",
+        "id": 2
+      },
+      {
+        "numero": "663",
+        "intitule": "Indemnités Forfaitaires Versées Au Personnel",
+        "id": 3
+      },
+      {
+        "numero": "664",
+        "intitule": "Charges Sociales",
+        "id": 4
+      },
+      {
+        "numero": "666",
+        "intitule": "Rémunérations Et Charges Sociales De L'Exploitant Individuel",
+        "id": 5
+      },
+      {
+        "numero": "667",
+        "intitule": "Rémunérations Transférée De Personnel Extérieur",
+        "id": 6
+      },
+      {
+        "numero": "668",
+        "intitule": "Autres Charges Sociales",
+        "id": 7
+      },
+
+      {
+        "numero": "671",
+        "intitule": "Intérêts Des Emprunts",
+        "id": 1
+      },
+      {
+        "numero": "672",
+        "intitule": "Intérêts Dans Loyers De Location Acquisition",
+        "id": 2
+      },
+      {
+        "numero": "673",
+        "intitule": "Escomptes Accordés",
+        "id": 3
+      },
+      {
+        "numero": "674",
+        "intitule": "Autres Intérêts",
+        "id": 4
+      },
+      {
+        "numero": "675",
+        "intitule": "Escomptes Des Effets De Commerce",
+        "id": 5
+      },
+      {
+        "numero": "676",
+        "intitule": "Pertes De Change Financières",
+        "id": 6
+      },
+      {
+        "numero": "677",
+        "intitule": "Pertes Sur Titres De Placement",
+        "id": 7
+      },
+      {
+        "numero": "678",
+        "intitule": "Pertes Et Charges Sur Risques Financiers",
+        "id": 8
+      },
+      {
+        "numero": "679",
+        "intitule": "Charges pour dépréciations et provisions pour risque à court terme financier",
+        "id": 9
+      },
+
+      {
+        "numero": "681",
+        "intitule": "Dotations Aux Amortissements D'Exploitation",
+        "id": 1
+      },
+
+      {
+        "numero": "691",
+        "intitule": "Dotations Aux Provisions Et Aux Dépréciations D'Exploitation",
+        "id": 1
+      },
+      {
+        "numero": "697",
+        "intitule": "Dotations aux provisions et aux dépréciations financières",
+        "id": 2
+      }
+]
